@@ -1,0 +1,50 @@
+body{
+    height: 1000px;;
+}
+.parent{
+    width: 800px;
+    height: 200px;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    position: relative;  /* parent ne depend cheyyan */
+}
+.ch1,.ch2,.ch3{
+    width: 100px;
+    height: 100px;
+}
+.ch1{
+    background-color:red;
+    position: absolute;  /*  */
+    left: 30%;    /* athine munne pos:absalute kodthl parent ne depend cheyth pokum body de left nn move cheyyum */
+    top: 5px;
+}
+.ch2{
+    background-color:chartreuse;
+    position: absolute;
+    left: 15%;
+    top: 5px;
+}
+.ch3{
+    background-color:darkgray;
+    top: 5px;
+    left: 10px;
+    position: absolute;
+}
+.fixed-div{
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+    position: fixed;
+    left: 40%;
+    top:0;
+}
+.stick{
+
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    background-color: maroon;
+    position: sticky;
+    position: -webkit-sticky;
+    top:0;
+}

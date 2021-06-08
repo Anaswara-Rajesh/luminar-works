@@ -1,0 +1,38 @@
+
+body{
+    background-color: black; 
+}
+.main-header{
+    text-align:center;
+    color: white;
+    text-decoration: underline;
+}
+.state{
+    border: 1px solid black; /* width style color  */
+    color: white;
+    background-color:tomato;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+.tvm{
+    border: 1px solid white;
+    background-color:turquoise;
+}
+.ekm{
+    border: 1px solid white;
+    background-color:palevioletred;
+}
+.koz{
+    border: 1px solid white;
+    background-color:purple;
+}
+.kol{
+    border: 1px solid white;
+    background-color:orange;
+}
+.thr{
+    border: 1px solid white;
+    background-color:yellowgreen;
+}

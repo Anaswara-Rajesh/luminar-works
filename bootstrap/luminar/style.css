@@ -1,0 +1,126 @@
+.second a{
+    color: white;
+}
+.div-right a{
+    color: white;
+}
+.div-right{
+    background-color:#7952b3;
+    height: 25px; 
+    width: 550px;
+    padding: 10px;
+    display: flex;
+    justify-content: left; /* center */
+    align-items: center;
+}
+h3{
+    color: #7952b3;
+}
+.first-nav{
+    background-color:#7952b3;
+    height: 30px; 
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content:space-between; /* center */
+    align-items: center;
+}
+.second{
+    background-color:#7952b3;
+    height: 25px; 
+    width: 400px;
+    padding: 10px;
+    display: flex;
+    justify-content: left; /* center */
+    align-items: center;
+    margin-left: 100px;
+
+}
+.third{
+    background-color:white;
+    height: 40px; 
+    width: 550px;
+    padding: 10px;
+    display: flex;
+    justify-content: left; /* center */
+    align-items: center;
+    margin-left: 140px;
+}
+.third a{
+    color: black;
+}
+.four{
+    background-color:white;
+    height: 50px; 
+    width: 330px;
+    padding: 10px;
+    display: flex;
+    justify-content: left; /* center */
+    align-items: center;
+    margin-left: 150px;
+}
+.lu-img-div{
+    background-color:white;
+    height: 600px; 
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: left; /* center */
+    align-items: center;
+}
+.luminar{
+    background-color:white;
+    height: 500px; 
+    width: 550px;
+    align-items: center;
+    margin-left: 60px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.img-div{
+    background-color:white;
+    height: 600px; 
+    width: 600px;
+    padding: 10px;
+    display: flex;
+    justify-content: left; /* center */
+    align-items: center;
+    margin-left: 50px;
+}
+.main-div{
+    background-color:white;
+    height: 430px; 
+    width: 100%;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+    text-align: justify;
+}
+.one-div{
+    background-color:white;
+    height: 350px; 
+    width: 100%;
+    align-items: center;
+}
+.two-div{
+    background-color:white;
+    height: 320px; 
+    width: 100%;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: black;
+    
+}
+.last-div{
+    background-color:white;
+    height: 550px; 
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding:5px;
+    margin-left: 10px;
+}
+

@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+
+.main-header{
+    font-family: 'Limelight', cursive;
+    text-align:center;
+    color: white;
+}
+body{
+    background-color: black; 
+}
+div{
+    width: 100px;
+    height: 140px;
+    border: 1px solid white;
+    float: left;
+}
+.one{
+    margin-left:405px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:grey;
+}
+.two{
+    margin-left:12px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:seagreen;
+    
+}
+.three{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:yellowgreen;
+    
+}
+.four{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:green;
+    
+}
+.five{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:rosybrown;
+}
+.six{
+    margin-left:290px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color:sienna;
+}
+.seven{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:purple;
+}
+.eight{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:red;
+}
+.nine{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color:aqua;
+}
+.ten{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:maroon;
+}
+.eleven{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:indigo;
+}
+.twelve{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:navy;
+}
+.a{
+    margin-left:179px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:crimson;
+}
+.b{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:rosybrown;
+}
+.c{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:yellow;
+}
+.d{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:royalblue;
+}
+.e{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:darkgray;
+}
+.f{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:fuchsia;
+}
+.g{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:honeydew;
+}
+.h{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:khaki;
+}
+.i{
+    margin-left:15px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+    background-color:cornflowerblue;
+}

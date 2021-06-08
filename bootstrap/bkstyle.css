@@ -1,0 +1,35 @@
+.main-header{
+    background-color:gray; 
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center; /* center */
+    align-items: center;
+}
+a{
+    padding: 40px;
+    text-decoration: none;  /*underline pokn */
+    color:black;
+}
+a:hover{
+    color:red;
+    background-color: rgba(255,255,255,3);
+}
+.first-div{
+    width: 100%;
+    height: 450px;
+    border: 1px solid white;
+    background-color: white;
+    display: flex; 
+    justify-content: space-evenly;
+}
+.one{
+    margin-top: 10px;
+    width: 320px;
+    height: 490px;
+    border: 1px solid black;
+    background-color: white;
+    padding: 10px;   
+    margin-left: 10px;
+}

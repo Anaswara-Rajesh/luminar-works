@@ -1,0 +1,18 @@
+.nav-item a {
+    color: white;
+}
+.div-rght{
+    background-color:#7952b3; 
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: left; /* center */
+    align-items: center;
+    margin-left: 650px;
+
+}
+.image{
+    height:200px;
+    width:100%
+}

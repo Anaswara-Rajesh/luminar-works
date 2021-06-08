@@ -1,0 +1,18 @@
+div{
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+
+}
+.sec1{
+    position: absolute;
+    top: 50%;            /*thazhek veran*/
+    left: 40%;
+    background-color: blueviolet;
+}
+.sec2{
+    background-color: brown;
+}
+.sec3{
+    background-color: cadetblue;
+}
