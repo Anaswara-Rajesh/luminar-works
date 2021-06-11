@@ -6,3 +6,5 @@ console.log(`substraction= ${num1-num2}`);
 console.log(`multiplication= ${num1*num2}`);
 console.log(`division= ${num1/num2}`);
 console.log(`modulus= ${num1%num2}`);
+//floor-var res=Math.floor(10/3);console.log(res);-->result=3
+//Math.ceil()
