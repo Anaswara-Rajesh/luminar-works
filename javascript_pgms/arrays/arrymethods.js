@@ -40,3 +40,4 @@ console.log(cubes);
 var arr=[3,4,2,8,7,9]
 var evens=arr.filter(num=>num%2==0)
 console.log(evens);
+

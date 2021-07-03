@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Javascript Dom</h1>
+    <h1 id="htwo">Document object model</h1>
+
+    <h2>Document Object Methods</h2>
+    <ul>
+        <li class="lid">document.getElementsByTagName()</li>
+        <li id="second" >document.getElementById()</li>
+        <li class="lid">document.getElementByClassName()</li>
+        <li>document.querySelector()</li>
+    </ul>
+
+    <!--object name=>document=>methods
+    var document={
+        url:"atti",
+        heads:"heading tag",
+        links:"links",
+        getElementByTagName:function(){
+
+        },
+        getElementById:function(){
+
+        },
+        getElementByClassName:function(){
+
+        },
+        querySelector:function(){
+
+        },
+        querySelectorAll:function(){
+
+        }
+    }
+    -->
+</body>
+<script>
+// var hone=document.getElementsByTagName("h1")
+// for (let tag of hone){
+//     tag.style.color="red";
+// }
+
+// var hto=document.getElementById("htwo");
+// hto.style.color="cyan"
+// second.style.color="green"
+// var lid=document.getElementsByClassName("lid")
+// for (let tag of lid){
+//     tag.style.color="blue"
+// }
+//var lis=document.querySelectorAll("li")
+// var lis=document.querySelector("li")
+// lis.style.color="purple"
+// for(let tag of lis){
+//     tag.style.color="purple"
+// }
+var htwo=document.querySelector("h2")
+htwo.innerHTML="<em>Document Object Model Methods</em>"     //textContent
+htwo.style.color="red"
+</script>
+</html>
